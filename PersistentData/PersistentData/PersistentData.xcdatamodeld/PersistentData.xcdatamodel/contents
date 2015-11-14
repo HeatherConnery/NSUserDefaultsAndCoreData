@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="15A284" minimumToolsVersion="Automatic">
+    <entity name="DriversLicense" representedClassName=".DriversLicense" syncable="YES">
+        <attribute name="country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateOfBirth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="givenName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="licenseId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="streetAddress" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DriversLicense" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
